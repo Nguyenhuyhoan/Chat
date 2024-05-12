@@ -1,3 +1,6 @@
 
 Message: CjjvjgiggfufgiYYY
 Image URL: https://github.com/Nguyenhuyhoan/Chat/blob/main/images/IMG_0345.jpeg?raw=true
+
+Message: Rrr
+Image URL: https://github.com/Nguyenhuyhoan/Chat/blob/main/images/IMG_0208.jpeg?raw=true
