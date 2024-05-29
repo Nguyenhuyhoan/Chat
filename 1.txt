@@ -31,3 +31,4 @@ li
 https://www.dropbox.com/scl/fi/oee183gbgvtftfb650v8n/YouTube_19.20.2_Killer_Old.ipa?rlkey=0jmm2prsxb2slpmyk7m93syh1&dl=0
 https://drive.google.com/file/d/1N-XRSn9AU1sMy5JvWdVpP6ZXaXbLhPs5/view?usp=drivesdk
 - Video hướng dẫn bật tải video cho các bản youtube này sẽ có sau
+- Cách bật chức năng tải xuống trong YouTube Killer:
