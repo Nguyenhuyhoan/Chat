@@ -33,3 +33,4 @@ https://drive.google.com/file/d/1N-XRSn9AU1sMy5JvWdVpP6ZXaXbLhPs5/view?usp=drive
 - Video hướng dẫn bật tải video cho các bản youtube này sẽ có sau
 - Cách bật chức năng tải xuống trong YouTube Killer:
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1716984746992-CFNetworkDownload_sdQkqy.tmp.mp4
+Test khả năng tải xuống của YtKiller: https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1716984789683-CFNetworkDownload_Yg4EO4.tmp.mp4
