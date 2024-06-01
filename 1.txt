@@ -39,3 +39,4 @@ Thử nghiệm với âm nhạc trên web 😂
 
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717141211094-RPReplay_Final1717140260-compressed.mp4
 YouTube 19.21.3 uYou 3.0.4:
+Lưu ý: vào cài đặt của uYou (không phải cài đặt của Youtube), chọn "Cài đặt khác" và tắt "Xoá quảng cáo Youtube" đi. Tính năng này của uYou gây lỗi hiển thị trên trang chủ và mình đã dùng tweak khác thay thế nên YouTube vẫn không có quảng cáo
