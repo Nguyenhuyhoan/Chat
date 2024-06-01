@@ -42,3 +42,4 @@ YouTube 19.21.3 uYou 3.0.4: 👇
 Lưu ý: vào cài đặt của uYou (không phải cài đặt của Youtube), chọn "Cài đặt khác" và tắt "Xoá quảng cáo Youtube" đi. Tính năng này của uYou gây lỗi hiển thị trên trang chủ và mình đã dùng tweak khác thay thế nên YouTube vẫn không có quảng cáo
 Link:
 https://drive.google.com/file/d/1a5diqByPBUD7dLoxuN4zYA35TPj3EYCc/view?usp=drivesdk
+https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717213366696-IMG_0492.png
