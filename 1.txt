@@ -54,5 +54,5 @@ https://drive.google.com/file/d/1KBUhZ00BNthf51rz_tfOdZ2AnVFfvWOa/view?usp=drive
 https://drive.google.com/file/d/1qYuVTxnVew8cNtxkZ8DdeAeNNHZquKvR/view?usp=drivesdk
  - Còn đây là test tải video - audio:
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717320946244-RPReplay_Final1717320223-compressed.mp4
-==> YTLite bản cho ios 14:
+==> Còn đây là bản YTLite bản cho ios 14:
 https://drive.google.com/file/d/1clxiQ82ihPKzh2ybwKwBiApF1fcaNJHh/view?usp=drivesdk
