@@ -73,7 +73,7 @@ https://drive.google.com/file/d/1ZTL0Wl0pli9-nLoAcfIgcmY0kCeyEnQi/view?usp=drive
  - Hình trong hình, hiện độ phân giải video trong trình phát và thay đổi nhanh độ phân giải video đang xem trong trình phát, bộ giải mã VP9 xem video với độ phân giải cao hơn. 
   YouTube mới nhất 19.22.6 YTLitePlus: 
 https://drive.google.com/file/d/1Yiqu8vhGuid7bJsxXEUcY7RWOUoZpKEi/view?usp=drivesdk 
-  YouTube 19.19.7 YTLitePlus cho ios 14: 
+  YouTube 19.19.7 YTLitePlus cho ios 14: 
 https://drive.google.com/file/d/132n_qkDnQ60ILNwrG0wmPOUYkBhMIPxD/view?usp=drivesdk
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717744565785-IMG_0578.png
 YouTube mới nhất 19.23.3 YTLitePlus 4.0.1:
@@ -85,4 +85,6 @@ IOS14 YouTube 19.20.2 YTLitePlus 4.0.1:
 https://drive.google.com/file/d/1Drxz9ERLAchqnRkAFSACaAISsyQ7tbvL/view?usp=drivesdk
 Theo dõi nhóm facebook để hỏi đáp hướng dẫn chi tiết hơn. Link:
 https://www.facebook.com/share/t1iQe4g3ZN1qyzKv/?mibextid=K35XfP
+
+YouTube mới nhất 19.26.5 YTLitePlus 4.0.1:
 https://drive.google.com/file/d/1vgfZc-lfMTKUCEO0CcGZABp4BEI8fNea/view?usp=drivesdk
