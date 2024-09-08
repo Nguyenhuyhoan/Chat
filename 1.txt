@@ -102,4 +102,4 @@ ola
 h
 hi
 Mật khẩu để vào dùng Dịch ngôn ngữ là gì vậy Ad
-script
+Pass: script
