@@ -102,4 +102,5 @@ ola
 h
 hi
 Mật khẩu để vào dùng Dịch ngôn ngữ là gì vậy Ad
-Đã gỡ mật khẩu!Thanks AD!
+Đã gỡ mật khẩu!
+Thanks AD!
