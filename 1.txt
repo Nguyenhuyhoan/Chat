@@ -130,3 +130,15 @@ Ai Text Pro Việt Hoá (Riêng Tư) 👇
 https://drive.google.com/file/d/10ROFHJZhVXj8ZrwOojWiESnNey2KQihT/view?usp=drivesdk
 YTLite 5.1 19.49.3 👇
 https://drive.google.com/file/d/1LrssvsHhStFv6k2CMvS7o99Cf1pz8tnp/view?usp=drivesdk
+Ai Text 4.19 Việt Hoá - Full Ký Tự:
+https://drive.google.com/file/d/1EigptiFElyl5_fG0LZsZbSUsVjPFwqHL/view?usp=drivesdk
+Genie 7.5 Việt Hoá 1 Phần - 4000 ký tự:
+https://drive.google.com/file/d/16yQRyUsHHodA3c-F34XJaW3VqnbfM9xu/view?usp=drivesdk
+Ai Smith 7.7 Việt Hoá - 2000 ký tự:
+https://drive.google.com/file/d/1QsbfJFU98c0ku-4QLSis5SrPSNYcJrvh/view?usp=drivesdk
+ChatPod 1.2.7 Tiếng Việt - 1000 ký tự:
+https://drive.google.com/file/d/1XCwKxU07TlcSOaQhn4JSXs2Oqir8mHO2/view?usp=drivesdk
+=> Cấu hình chat DeppAI: là Free nhưng Full ký tự và rất nhẹ, xử lý các văn bản thật dài nhưng không bị đơ máy như các App Chat Ai:
+https://bom.so/rJTa3C
+=> YTLite 19.49.5-5.1, đã việt hoá Full tweak YTLite 5.1, fix đăng nhập dù có đổi bundleid:
+https://drive.google.com/file/d/1p7oM8lYejO1RjJfoOoojScUPO6U7T_vf/view?usp=drivesdk
