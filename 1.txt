@@ -189,3 +189,4 @@ alo
 Xoá app gì
 Sao để xoá đc app
 App hoa cúc trắng
+Bác vô cài đặt, cài đặt chung, quản lý cấu hình và thiết bị, xoá cấu hình chặn thu hồi là được
