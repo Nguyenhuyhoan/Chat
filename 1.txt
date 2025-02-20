@@ -191,4 +191,4 @@ Sao để xoá đc app
 App hoa cúc trắng
 Bác vô cài đặt, cài đặt chung, quản lý cấu hình và thiết bị, xoá cấu hình chặn thu hồi là được
 Có cấu hình chặn qc ko ad. M xin vs
-Bác tự tạo cấu hình trong link http://hoacuctrang.wap.sh/chanthuhoi tguf khi cài cấu hình vào máy sẽ có cấu hình chặn thu hồi và quảng cáo của mình
+Bác tự tạo cấu hình trong link http://hoacuctrang.wap.sh/chanthuhoi thì khi cài cấu hình vào máy sẽ có cấu hình chặn thu hồi và quảng cáo của mình, nhớ là chỉ chọn 1 trong 2 DNS khi cài cấu hình trên máy xong nha
