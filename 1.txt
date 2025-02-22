@@ -193,3 +193,4 @@ Bác vô cài đặt, cài đặt chung, quản lý cấu hình và thiết bị
 Có cấu hình chặn qc ko ad. M xin vs
 Bác tự tạo cấu hình trong link http://hoacuctrang.wap.sh/chanthuhoi thì khi cài cấu hình vào máy sẽ có cấu hình chặn thu hồi và quảng cáo của mình, nhớ là chỉ chọn 1 trong 2 DNS khi cài cấu hình trên máy xong nha
 Bị như này là sao vậy ad https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1740217669423-IMG_9562.png
+Không hổ trợ phiên bản ios của máy bạn https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1740223955304-IMG_1070.png
