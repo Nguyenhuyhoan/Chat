@@ -196,3 +196,4 @@ Bị như này là sao vậy ad https://raw.githubusercontent.com/Nguyenhuyhoan/
 Không hổ trợ phiên bản ios của máy bạn https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1740223955304-IMG_1070.png
 Có cách nào để tải cho ios 16.7.10 kh ad
 Không hổ trợ ios 16.7 bác
+Ko thể cài easing
