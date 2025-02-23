@@ -201,3 +201,4 @@ Có mk ko
 Anh ơi nó bảo ứng dung Ko tai dc là sao anh
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1740309203215-IMG_1076.png
 Nhớ là không cài cấu hình chặn thu hồi thì sẽ không cài được nha, còn cách khắc phục thì ảnh trên
+Ko thể xác minh tính toàn vẹn của ứng dụng là sao
