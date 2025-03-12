@@ -222,3 +222,4 @@ Xoá cấu hình chặn thu hồi trong cài đặt sẽ mất Icon hoa cúc ở
 YTLite 5.1 20.10.3 👇
 https://drive.google.com/file/d/17rwMkqciajjoej_LOIWxvLHqLBm-kP2t/view?usp=drivesdk
 
+Mình k tải về tệp đc khi tạo cấu hình
