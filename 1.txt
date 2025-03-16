@@ -230,3 +230,4 @@ Không thể tải esign và troll
 Lỗi không toàn vẹn
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1742036665485-IMG_1182.png
 Làm sao để tải cấu hình về tệp
+Mình chỉ hổ trợ cái tring app Cài Đặt, ko hổ trợ Tệp
