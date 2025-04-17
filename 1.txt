@@ -252,3 +252,4 @@ Cách fix lỗi xác minh ứng dụng
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1744869334537-IMG_0548.png
 E tin cậy rồi nhưng vẫn bị
 Mong chị giúp e vì e cũng vội ạ
+Bác ios 18 à, mình đã thử nghiệm íos 18 và thấy tin cậy thì nó bắt khởi động lại, mà khởi động là thì bị thu hồi liền vì cấu hình chưa kịp hoạt động. Chưa biết cachs khắc phục
