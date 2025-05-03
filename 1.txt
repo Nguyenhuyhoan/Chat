@@ -273,3 +273,4 @@ Chỉ còn cách này hoặc chờ chứng chỉ mới
 bạn xoá hết chứng chỉ hay app đi
 rồi reset dòng 2 cài lại là đc
 xoá mấy app ký á
+Reset dòng 2 là khôi phục như iphone mới và sẽ mất tất cả dữ liệu trong đó có cả ảnh và tài khoản ngân hàng
