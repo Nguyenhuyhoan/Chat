@@ -276,3 +276,4 @@ xoá mấy app ký á
 Reset dòng 2 là khôi phục như iphone mới và sẽ mất tất cả dữ liệu trong đó có cả ảnh và tài khoản ngân hàng
 YTLite 5.2b1 20.18.4👇
 https://drive.google.com/file/d/1RyFuzJh0r2yMTz98pnWztu1e_npl5qbE/view?usp=drivesdk
+itms-services://?action=download-manifest&url=https://github.com/Nguyenhuyhoan/Test/raw/main/Conti
