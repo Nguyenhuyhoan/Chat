@@ -27,7 +27,7 @@ A. ==> YouTube 19.19.7 Killer Crack bản cũ
 https://drive.google.com/file/d/1Srgwn485k0XgFU-TGy1CVa_hnF_H4VmU/view?usp=drivesdk
 li
 A. - YouTube 19.20.2 Killer Crack bản cũ (bản cũ ko tải được âm thanh nhưng tải video ổn định, bản mới tải được video lẫn âm thanh nhưng chậm và dễ bị dừng đột ngột) 
-https://www.dropbox.com/scl/fi/oee183gbgvtftfb650v8n/YouTube_19.20.2_Killer_Old.ipa?rlkey=0jmm2prsxb2slpmyk7m93syh1&dl=0
+A. https://www.dropbox.com/scl/fi/oee183gbgvtftfb650v8n/YouTube_19.20.2_Killer_Old.ipa?rlkey=0jmm2prsxb2slpmyk7m93syh1&dl=0
 https://drive.google.com/file/d/1N-XRSn9AU1sMy5JvWdVpP6ZXaXbLhPs5/view?usp=drivesdk
 A. - Video hướng dẫn bật tải video cho các bản youtube này sẽ có sau
 A. -Cách bật chức năng tải xuống trong YouTube Killer: https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1716985783060-RPReplay_Final1716985761.mp4
@@ -35,29 +35,29 @@ A. -Test khả năng tải xuống của YtKiller: https://raw.githubusercontent
 A. ==> YouTube 19.21.3 uYou 3.0.4: 👇
 Lưu ý: vào cài đặt của uYou (không phải cài đặt của Youtube), chọn "Cài đặt khác" và tắt "Xoá quảng cáo Youtube" đi. Tính năng này của uYou gây lỗi hiển thị trên trang chủ và mình đã dùng tweak khác thay thế nên YouTube vẫn không có quảng cáo
 A. Link:
-https://drive.google.com/file/d/1a5diqByPBUD7dLoxuN4zYA35TPj3EYCc/view?usp=drivesdk
+A. https://drive.google.com/file/d/1a5diqByPBUD7dLoxuN4zYA35TPj3EYCc/view?usp=drivesdk
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717213366696-IMG_0492.png
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717213373281-IMG_0493.png
 A. ==> Tiếp tục YouTube 19.21.3 Killer đã bẻ khoá (Tải Video rất nhanh): 👇
 A. -Cách bật chức năng tải xuống trong YouTube Killer 👇  (Lưu ý: chỉ bật như trong video dưới, không cần làm gì thêm vì mình đã thêm đủ tweak trong file rồi) https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1716985783060-RPReplay_Final1716985761.mp4
 
 A. Link:
-https://drive.google.com/file/d/1KBUhZ00BNthf51rz_tfOdZ2AnVFfvWOa/view?usp=drivesdk
+A. https://drive.google.com/file/d/1KBUhZ00BNthf51rz_tfOdZ2AnVFfvWOa/view?usp=drivesdk
 A. ==> Mình vừa tìm được tweak YTLite mới nhất có chức năng tải video âm thanh và thật bất ngờ khi khả năng tải của nó rất nhanh và ổn định, không hề thua kém các tweak trả phí như DLTube hay YTKiller. Video đầu tiên là test khả năng tải video với audio của tweak YTLite này, còn đây là link mời các bác test 👇😂:
 
-https://drive.google.com/file/d/1qYuVTxnVew8cNtxkZ8DdeAeNNHZquKvR/view?usp=drivesdk
+A. https://drive.google.com/file/d/1qYuVTxnVew8cNtxkZ8DdeAeNNHZquKvR/view?usp=drivesdk
 A. - Còn đây là test tải video - audio: 👇
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717320946244-RPReplay_Final1717320223-compressed.mp4
 A. ==> Còn đây là bản YTLite bản cho ios 14👇:
-https://drive.google.com/file/d/1clxiQ82ihPKzh2ybwKwBiApF1fcaNJHh/view?usp=drivesdk
+A. https://drive.google.com/file/d/1clxiQ82ihPKzh2ybwKwBiApF1fcaNJHh/view?usp=drivesdk
 A. ==> YTLite 19.21.3 (Tải Video - Audio rất nhanh), đã thêm iSponsorBlock 👇:
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717384752783-IMG_0522.png
 A. Link:
-https://drive.google.com/file/d/1MpZSEh7ee1S3Hze8MBHfqOoVBpFRoucs/view?usp=drivesdk
+A. https://drive.google.com/file/d/1MpZSEh7ee1S3Hze8MBHfqOoVBpFRoucs/view?usp=drivesdk
 A. ==> YTLite 19.22.3 (Tải Video - Audio rất nhanh), đã thêm iSponsorBlock và các tweak nhỏ 👇:
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717461417164-IMG_0540.png
 A. Link:
-https://drive.google.com/file/d/1ZTL0Wl0pli9-nLoAcfIgcmY0kCeyEnQi/view?usp=drivesdk
+A. https://drive.google.com/file/d/1ZTL0Wl0pli9-nLoAcfIgcmY0kCeyEnQi/view?usp=drivesdk
 
 
 A. ==> YOUTUBE MỚI NHẤT 19.22.6 VS YOUTUBE IOS14: 
@@ -66,31 +66,31 @@ A. - Đã thêm iSponsorBlock đã Việt Hoá và chỉnh sửa cho dễ hiểu
 A. - Đăng nhập tài khoản google tốt dù có thay đổi Bundle ID. 
 A. - Hình trong hình, hiện độ phân giải video trong trình phát và thay đổi nhanh độ phân giải video đang xem trong trình phát, bộ giải mã VP9 xem video với độ phân giải cao hơn. 
 A. YouTube mới nhất 19.22.6 YTLitePlus: 
-https://drive.google.com/file/d/1Yiqu8vhGuid7bJsxXEUcY7RWOUoZpKEi/view?usp=drivesdk 
+A. https://drive.google.com/file/d/1Yiqu8vhGuid7bJsxXEUcY7RWOUoZpKEi/view?usp=drivesdk 
 A. YouTube 19.19.7 YTLitePlus cho ios 14: 
-https://drive.google.com/file/d/132n_qkDnQ60ILNwrG0wmPOUYkBhMIPxD/view?usp=drivesdk
+A. https://drive.google.com/file/d/132n_qkDnQ60ILNwrG0wmPOUYkBhMIPxD/view?usp=drivesdk
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1717744565785-IMG_0578.png
 A. YouTube mới nhất 19.23.3 YTLitePlus 4.0.1:
 
-https://drive.google.com/file/d/1qznkYZxxjwta_k8s679wGlNW4LNlWtaB/view?usp=drivesdk
+A. https://drive.google.com/file/d/1qznkYZxxjwta_k8s679wGlNW4LNlWtaB/view?usp=drivesdk
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1718064728813-IMG_0627.png
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1718064735050-IMG_0628.png
 A. IOS14 YouTube 19.20.2 YTLitePlus 4.0.1:
-https://drive.google.com/file/d/1Drxz9ERLAchqnRkAFSACaAISsyQ7tbvL/view?usp=drivesdk
+A. https://drive.google.com/file/d/1Drxz9ERLAchqnRkAFSACaAISsyQ7tbvL/view?usp=drivesdk
 A. Theo dõi nhóm facebook để hỏi đáp hướng dẫn chi tiết hơn. Link:
-https://www.facebook.com/share/t1iQe4g3ZN1qyzKv/?mibextid=K35XfP
+A. https://www.facebook.com/share/t1iQe4g3ZN1qyzKv/?mibextid=K35XfP
 
 A. YouTube mới nhất 19.26.5 YTLitePlus 4.0.1:
-https://drive.google.com/file/d/1vgfZc-lfMTKUCEO0CcGZABp4BEI8fNea/view?usp=drivesdk
+A. https://drive.google.com/file/d/1vgfZc-lfMTKUCEO0CcGZABp4BEI8fNea/view?usp=drivesdk
 A. YouTube mới nhất 19.28.1 YTLitePlus 4.0.1:
-https://drive.google.com/file/d/1j2eF5Eqqn37_z4vivxiNwj97qGPu_-La/view?usp=drivesdk
+A. https://drive.google.com/file/d/1j2eF5Eqqn37_z4vivxiNwj97qGPu_-La/view?usp=drivesdk
 A. YouTube mới nhất 19.28.1 YTLitePlus 4.0.1 không có iSponBlock:
-https://drive.google.com/file/d/10fLCcmeUmQgzocYUeQmjWDlC7SMJKUtl/view?usp=drivesdk
+A. https://drive.google.com/file/d/10fLCcmeUmQgzocYUeQmjWDlC7SMJKUtl/view?usp=drivesdk
 A. YouTube mới nhất 19.29.1 YTLitePlus 4.0.1:
-https://drive.google.com/file/d/1IRDvCsPDfy1Ng5xeJdalWEItjMvF1h_9/view?usp=drivesdk
+A. https://drive.google.com/file/d/1IRDvCsPDfy1Ng5xeJdalWEItjMvF1h_9/view?usp=drivesdk
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1725266124293-IMG_1400.png
 A. YouTube LitePlus 5.0.1 - 19.34.2 
-https://drive.google.com/file/d/1j-CZzS_loswblWq9Ed9ddSNHooMzl6Zl/view?usp=drivesdk
+A. https://drive.google.com/file/d/1j-CZzS_loswblWq9Ed9ddSNHooMzl6Zl/view?usp=drivesdk
 hi
 ola
 h
@@ -99,57 +99,57 @@ Mật khẩu để vào dùng Dịch ngôn ngữ là gì vậy Ad
 A. Đã gỡ mật khẩu!
 Thanks AD!
 A. YouTube LitePlus 5.0.2 - 19.36.1 👇
-https://drive.google.com/file/d/1GB-wHxysGk83nOj8vCBCOAhIjsKXAawI/view?usp=drivesdk
+A. https://drive.google.com/file/d/1GB-wHxysGk83nOj8vCBCOAhIjsKXAawI/view?usp=drivesdk
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1726120092032-IMG_1540.jpeg
 A. YouTube LitePlus 5.0.2 - 19.38.2👇
-https://drive.google.com/file/d/1Ujjs2x5BbAwWXKr2ihKBUxmlJNxT2kqd/view?usp=drivesdk
+A. https://drive.google.com/file/d/1Ujjs2x5BbAwWXKr2ihKBUxmlJNxT2kqd/view?usp=drivesdk
 A. YouTube LitePlus 5.0.2 - 19.40.4👇
-https://drive.google.com/file/d/1jXXGJIJoqj820pIIpOXteTGdPbaxMt7t/view?usp=drivesdk
+A. https://drive.google.com/file/d/1jXXGJIJoqj820pIIpOXteTGdPbaxMt7t/view?usp=drivesdk
 A. YouTube 2 LitePlus 5.0.2 - 19.40.4👇
-https://drive.google.com/file/d/12UxgZ8RB9cDA7G9TPBgQTKH6VERJJvlx/view?usp=drivesdk
+A. https://drive.google.com/file/d/12UxgZ8RB9cDA7G9TPBgQTKH6VERJJvlx/view?usp=drivesdk
 A. YouTube LitePlus 5.0.2 - 19.41.3👇
-https://drive.google.com/file/d/14hRcX06CDT-guDZjSgpqlJcjVeGdLUG8/view?usp=drivesdk
+A. https://drive.google.com/file/d/14hRcX06CDT-guDZjSgpqlJcjVeGdLUG8/view?usp=drivesdk
 Web rất hữu ích!
 A. 👍
 A. YouTube LitePlus 5.0.2 - 19.42.1👇
-https://drive.google.com/file/d/1wLP26LfLI8qzOWWWla6Ma_nTpx8sNJhH/view?usp=drivesdk
+A. https://drive.google.com/file/d/1wLP26LfLI8qzOWWWla6Ma_nTpx8sNJhH/view?usp=drivesdk
 A. YouTube LitePlus 5.0.2 - 19.43.2👇
-https://drive.google.com/file/d/1k3VGebEClQL7Jql-JmYuyZA16DaiC_EU/view?usp=drivesdk
+A. https://drive.google.com/file/d/1k3VGebEClQL7Jql-JmYuyZA16DaiC_EU/view?usp=drivesdk
 A. Genie Pro 7.4.0 👇 (Hỏi Đáp Với AI)
-https://drive.google.com/file/d/10641mjdnQFxGnMy2KQW0CxQ4Q8tAUPqL/view?usp=drivesdk
+A. https://drive.google.com/file/d/10641mjdnQFxGnMy2KQW0CxQ4Q8tAUPqL/view?usp=drivesdk
 A. YTLite 5.1 YouTube 19.47.7 👇
-https://drive.google.com/file/d/1ayvSwmkHZP5d4LN2wF8KykYsuEurB6bi/view?usp=drivesdk
+A. https://drive.google.com/file/d/1ayvSwmkHZP5d4LN2wF8KykYsuEurB6bi/view?usp=drivesdk
 A. ChatMe 2.11.1 Pro (Chat Ai Full Ký Tự)👇
-https://drive.google.com/file/d/1OANvfHk06Xhl6iQryYT6Ha_SMXYUXxcl/view?usp=drivesdk
+A. https://drive.google.com/file/d/1OANvfHk06Xhl6iQryYT6Ha_SMXYUXxcl/view?usp=drivesdk
 A. Ai Text Pro Việt Hoá (Riêng Tư) 👇
-https://drive.google.com/file/d/10ROFHJZhVXj8ZrwOojWiESnNey2KQihT/view?usp=drivesdk
+A. https://drive.google.com/file/d/10ROFHJZhVXj8ZrwOojWiESnNey2KQihT/view?usp=drivesdk
 A. YTLite 5.1 19.49.3 👇
-https://drive.google.com/file/d/1LrssvsHhStFv6k2CMvS7o99Cf1pz8tnp/view?usp=drivesdk
+A. https://drive.google.com/file/d/1LrssvsHhStFv6k2CMvS7o99Cf1pz8tnp/view?usp=drivesdk
 A. Ai Text 4.19 Việt Hoá - Full Ký Tự:
-https://drive.google.com/file/d/1EigptiFElyl5_fG0LZsZbSUsVjPFwqHL/view?usp=drivesdk
+A. https://drive.google.com/file/d/1EigptiFElyl5_fG0LZsZbSUsVjPFwqHL/view?usp=drivesdk
 A. Genie 7.5 Việt Hoá 1 Phần - 4000 ký tự:
-https://drive.google.com/file/d/16yQRyUsHHodA3c-F34XJaW3VqnbfM9xu/view?usp=drivesdk
+A. https://drive.google.com/file/d/16yQRyUsHHodA3c-F34XJaW3VqnbfM9xu/view?usp=drivesdk
 A. Ai Smith 7.7 Việt Hoá - 2000 ký tự:
-https://drive.google.com/file/d/1QsbfJFU98c0ku-4QLSis5SrPSNYcJrvh/view?usp=drivesdk
+A. https://drive.google.com/file/d/1QsbfJFU98c0ku-4QLSis5SrPSNYcJrvh/view?usp=drivesdk
 A. ChatPod 1.2.7 Tiếng Việt - 1000 ký tự:
-https://drive.google.com/file/d/1XCwKxU07TlcSOaQhn4JSXs2Oqir8mHO2/view?usp=drivesdk
+A. https://drive.google.com/file/d/1XCwKxU07TlcSOaQhn4JSXs2Oqir8mHO2/view?usp=drivesdk
 A. => Cấu hình chat DeppAI: là Free nhưng Full ký tự và rất nhẹ, xử lý các văn bản thật dài nhưng không bị đơ máy như các App Chat Ai:
 https://bom.so/rJTa3C
 A. => YTLite 19.49.5-5.1, đã việt hoá Full tweak YTLite 5.1, fix đăng nhập dù có đổi bundleid:
-https://drive.google.com/file/d/1p7oM8lYejO1RjJfoOoojScUPO6U7T_vf/view?usp=drivesdk
+A. https://drive.google.com/file/d/1p7oM8lYejO1RjJfoOoojScUPO6U7T_vf/view?usp=drivesdk
 A. YTLite 5.1 19.49.7 👇
-https://drive.google.com/file/d/19D9lvmMISbn4hWfX2Zgrlzm1F306jagn/view?usp=drivesdk
+A. https://drive.google.com/file/d/19D9lvmMISbn4hWfX2Zgrlzm1F306jagn/view?usp=drivesdk
 A. YTLite 5.1 20.02.3 👇
-https://drive.google.com/file/d/1cE_55bYt_GmaInY8pnLalEV6QSMJGXYy/view?usp=drivesdk
+A. https://drive.google.com/file/d/1cE_55bYt_GmaInY8pnLalEV6QSMJGXYy/view?usp=drivesdk
 A. YTLite 5.1 20.03.2👇
-https://drive.google.com/file/d/1Bfb2uclWPhYqc29ymEa3Q8xifsaulDWZ/view?usp=drivesdk
+A. https://drive.google.com/file/d/1Bfb2uclWPhYqc29ymEa3Q8xifsaulDWZ/view?usp=drivesdk
 Cảm ơn shop đã mang web này trở lại nhé! Admin có stk không gửi lên để mình gửi ad cốc cà phê năm mới nhé
 A. Rất cảm ơn bạn đã quan tâm và lời đề nghị tử tế! Tuy nhiên, niềm vui của chúng tôi là được phục vụ và mang lại trải nghiệm tốt nhất cho bạn. Chúc bạn một năm mới thật nhiều may mắn và niềm vui!
 Anh
 Dùng vpn có tải đc esin không
 A. VPN đó phải có chức năng chặn thu hồi thì được
 A. YTLite 5.1 20.04.1 👇
-https://drive.google.com/file/d/1lo1f_Wp7Xxsl7Y1ZfjZiHXy-3pgF0HFe/view?usp=drivesdk
+A. https://drive.google.com/file/d/1lo1f_Wp7Xxsl7Y1ZfjZiHXy-3pgF0HFe/view?usp=drivesdk
 giờ e sign tải k a
 A. Ý bạn là gì?
 giờ tải đc e sign k b mình xin link với
@@ -162,7 +162,7 @@ https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1738568665074-IM
 Chỉ mình cách fix cái không thể xác minh ứng dụng trên ip8plus bản 16.4.1 với huhu
 A. Reset dòng 2 như iphone mới rồi cài lại hoặc dùng máy tính để cài, máy bác hổ trợ trollstore đó - cài app vĩnh viễn nhưng ban đầu thì cần reset dòng 2 hoặc cài bằng vi tính
 A. YTLite 5.1 20.05.4 👇
-https://drive.google.com/file/d/1MAGtiww4TY5P1HHFB3JRMYSm4quN0Akd/view?usp=drivesdk
+A. https://drive.google.com/file/d/1MAGtiww4TY5P1HHFB3JRMYSm4quN0Akd/view?usp=drivesdk
 Chị gái ơi. E dùng esig xong Tắt nguồn không tắt mạng . Giờ chứng chỉ bị thu hồi thì có cáh nào khắc phục không ạ
 A. Chỉ còn cách reset dòng 2 thì mới cài lại được Esign trên web này em gái à
 Reset lại toàn bộ máy ạ. Tệ thật. Tìm bao nhiêu nguồn mới tìm được chị mà hôm nay máy Sập nguồn bật lại thì hẹo :(
@@ -173,12 +173,12 @@ A. Sao cứ hỏi đi
 Xin esin ạ
 A. Làm theo hướng dẫn trong đây nè bác: http://hoacuctrang.wap.sh/
 A. YTLite 5.1 20.06.3 👇
-https://drive.google.com/file/d/1KL7KaaQm1VrkTVgAyEid-6ELsfT9xWNT/view?usp=drivesdk
+A. https://drive.google.com/file/d/1KL7KaaQm1VrkTVgAyEid-6ELsfT9xWNT/view?usp=drivesdk
 Em mua bản esign cá nhân với
 A. Mình không có bán chứng chỉ 🤪
 dd
 A. YTLite 5.1 20.07.6 👇
-https://drive.google.com/file/d/1SEDy45rdb_VuXxXP_WMxmeCi4nV4FkSJ/view?usp=drivesdk
+A. https://drive.google.com/file/d/1SEDy45rdb_VuXxXP_WMxmeCi4nV4FkSJ/view?usp=drivesdk
 sao để xoá đc app
 alo
 A. Xoá app gì
@@ -202,49 +202,49 @@ Ko thể xác minh tính toàn vẹn của ứng dụng là sao
 A. Nghĩa laf iphone của bạn có thể do mua cũ lại
 A. Do đó bị khoá icloud hoặc bypass, mình chỉ hiểu tới đó, nguyên nhân khác thì chưa biết
 A. YTLite 5.1 20.08.3 👇
-https://drive.google.com/file/d/1KT_hdZFP6jTO67xLw1QS6UhfrOV-8M3s/view?usp=drivesdk
+A. https://drive.google.com/file/d/1KT_hdZFP6jTO67xLw1QS6UhfrOV-8M3s/view?usp=drivesdk
 Gh
 ad biết cài fb thứ 2 trên máy k
 A. Facebook2 ipa đây bác, cách cài thì bác tự nghiên cứu
 https://link.codevn.net/shBR7E
 bác có chat gtp k
 A. Không có nhưng trong Genie có ChatGPT Pro 👇
-https://drive.google.com/file/d/1lTTRRm0YA2mq2vDswfBx1IU1iluW9ZaU/view?usp=drivesdk
+A. https://drive.google.com/file/d/1lTTRRm0YA2mq2vDswfBx1IU1iluW9ZaU/view?usp=drivesdk
 A. YTLite 5.1 20.09.3 👇
-https://drive.google.com/file/d/1ye_mNP-muNyGkSxcuE1Q_aw34HYdwaDw/view?usp=drivesdk
+A. https://drive.google.com/file/d/1ye_mNP-muNyGkSxcuE1Q_aw34HYdwaDw/view?usp=drivesdk
 cách tải filza đi ad
 A. Mình không dùng cái đó nên cũng không rành bác à
 Lm dao để xoá cái app hoa cúc v
 A. Xoá cấu hình chặn thu hồi trong cài đặt sẽ mất Icon hoa cúc ở màn hình chính
 A. YTLite 5.1 20.10.3 👇
-https://drive.google.com/file/d/17rwMkqciajjoej_LOIWxvLHqLBm-kP2t/view?usp=drivesdk
+A. https://drive.google.com/file/d/17rwMkqciajjoej_LOIWxvLHqLBm-kP2t/view?usp=drivesdk
 
 Mình k tải về tệp đc khi tạo cấu hình
 A. Bỏ chức năng lưu vào tệp rồi bác, chỉ còn chức năng nhấn nút để cài trong App Cài Đặt thôi
 A. YTLite 5.1 20.10.4 👇
-https://drive.google.com/file/d/1Y4wQG1kVyDB2QJ7SThjO2eabrYQf9q8e/view?usp=drivesdk
+A. https://drive.google.com/file/d/1Y4wQG1kVyDB2QJ7SThjO2eabrYQf9q8e/view?usp=drivesdk
 Không thể tải esign và troll
 Lỗi không toàn vẹn
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1742036665485-IMG_1182.png
 Làm sao để tải cấu hình về tệp
 A. Mình chỉ hỗ trợ cà trong app Cài Đặt, ko hỗ trợ Tệp
 A. YTLite 5.1 20.11.6 👇
-https://drive.google.com/file/d/1dMItbrPHvWY-62LUo0L_t9t6WUps6xV-/view?usp=drivesdk
+A. https://drive.google.com/file/d/1dMItbrPHvWY-62LUo0L_t9t6WUps6xV-/view?usp=drivesdk
 A. YTLite 5.1 20.12.4
-https://drive.google.com/file/d/1SEbyFlo27w0kErTjObrM0-ygp0u5-7G6/view?usp=drivesdk
+A. https://drive.google.com/file/d/1SEbyFlo27w0kErTjObrM0-ygp0u5-7G6/view?usp=drivesdk
 nó bị s ý
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1743087730147-IMG_0522.png
 A. Bác tin cậy trong cài đặt chưa
 A. YTLite 5.2b1 20.13.5 👇
 
-https://drive.google.com/file/d/1pc-SkhyYOZXSS98TzYsUYL12KCCdX0uC/view?usp=drivesdk
+A. https://drive.google.com/file/d/1pc-SkhyYOZXSS98TzYsUYL12KCCdX0uC/view?usp=drivesdk
 Link bio mình là cái gì
 A. Mình chỉ có web này, không có web bio
 A. YTLite 5.2b1 20.14.2 👇
-https://drive.google.com/file/d/13-YJmP4dmQ_z7kHLLELO1wXiEL4eaWbT/view?usp=drivesdk
+A. https://drive.google.com/file/d/13-YJmP4dmQ_z7kHLLELO1wXiEL4eaWbT/view?usp=drivesdk
 
 A. YTLite 5.2b1 20.15.1 👇
-https://drive.google.com/file/d/1omETiDdmYahZ77dKLESEpBsRmI7wJ1EL/view?usp=drivesdk
+A. https://drive.google.com/file/d/1omETiDdmYahZ77dKLESEpBsRmI7wJ1EL/view?usp=drivesdk
 Cách fix lỗi xác minh ứng dụng
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1744869334537-IMG_0548.png
 E tin cậy rồi nhưng vẫn bị
@@ -252,7 +252,7 @@ Mong chị giúp e vì e cũng vội ạ
 A. Bác ios 18 à, mình đã thử nghiệm íos 18 và thấy tin cậy thì nó bắt khởi động lại, mà khởi động là thì bị thu hồi liền vì cấu hình chưa kịp hoạt động. Chưa biết cachs khắc phục
 Oh no😭
 A. YTLite 5.2b1 20.16.7 👇
-https://drive.google.com/file/d/1hOT595MD20p82GO46Bhsh6xpbXsLGnfa/view?usp=drivesdk
+A. https://drive.google.com/file/d/1hOT595MD20p82GO46Bhsh6xpbXsLGnfa/view?usp=drivesdk
 tại sao em ko thể xác minh toàn vẹn v mng giúp em với https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1746035140226-IMG_0014.png
 A. Vô Esign Conti thêm chứng chỉ Contin vô rồi khi ký app chọn chứng chỉ Contin
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1746074867082-IMG_1408.jpeg
@@ -272,17 +272,17 @@ A. rồi reset dòng 2 cài lại là đc
 xoá mấy app ký á
 A. Reset dòng 2 là khôi phục như iphone mới và sẽ mất tất cả dữ liệu trong đó có cả ảnh và tài khoản ngân hàng
 A. YTLite 5.2b1 20.18.4👇
-https://drive.google.com/file/d/1RyFuzJh0r2yMTz98pnWztu1e_npl5qbE/view?usp=drivesdk
+A. https://drive.google.com/file/d/1RyFuzJh0r2yMTz98pnWztu1e_npl5qbE/view?usp=drivesdk
 
 A. YTLite 5.2b1 20.18.5👇
-https://drive.google.com/file/d/1vtFoFnq-IExN-KtkZqXqshEuiJA5hcV1/view?usp=drivesdk
+A. https://drive.google.com/file/d/1vtFoFnq-IExN-KtkZqXqshEuiJA5hcV1/view?usp=drivesdk
 
 A. YTLite 5.2b1 20.19.3👇
-https://drive.google.com/file/d/1TH8XkXlxQxz-2l5qLmLjME79ZGyj5BJo/view?usp=drivesdk
+A. https://drive.google.com/file/d/1TH8XkXlxQxz-2l5qLmLjME79ZGyj5BJo/view?usp=drivesdk
 A. YTLite 5.2b1 20.20.7👇
-https://drive.google.com/file/d/1MUhKLj0sKqQhZ8P0FaTsTEBjXHxWnlRN/view?usp=drivesdk
+A. https://drive.google.com/file/d/1MUhKLj0sKqQhZ8P0FaTsTEBjXHxWnlRN/view?usp=drivesdk
 A. Ai Text Pro 4.24.11 Việt Hoá 👇
-https://drive.google.com/file/d/1sjiR3bXLeNBD582ZqMXcXq5O3PIXGE9D/view?usp=drivesdk
+A. https://drive.google.com/file/d/1sjiR3bXLeNBD582ZqMXcXq5O3PIXGE9D/view?usp=drivesdk
 A. YTLite 5.2b1 20.22.1👇
 A. https://drive.google.com/file/d/19obnnh28TA_THStSfGNKPoROC07A_oYD/view?usp=drivesdk
 Ad có nhận làm website kh vậy
