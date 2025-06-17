@@ -299,3 +299,4 @@ https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1750093514304-IM
 bị j v
 A. Bạn phải thêm đúng chứng chỉ vô Esign, khi kí phải chọn chứng chỉ đó. Chứng chỉ có nhiều phiên bản v1 v2…, bạn xem tên của Esign mà mình đặt để thêm chứng chỉ vô cho đúng. VD tên esign là EHDFC1 thì thêm chứng chỉ HDFC 1 vô
 
+A. YTLite 5.2b1 20.24.4👇
