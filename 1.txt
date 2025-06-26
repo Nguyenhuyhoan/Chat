@@ -316,3 +316,4 @@ A. 3. Ngăn chặn Chỉnh sửa Trái phép: Khi bạn ký tập tin, bạn ng�
 A. Vì vậy, nếu bạn chỉ sử dụng cấu hình cho mục đích cá nhân, bạn có thể không cần ký. Nhưng nếu bạn phân phối cấu hình cho nhiều người dùng, việc ký là rất quan trọng để đảm bảo tính toàn vẹn và bảo mật của cấu hình.
 A. Cấu hình mình cho nhiều người dùng cũng phải ký thôi https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1750944076354-IMG_1892.jpeg
 có dns chống thu hồi kh ad oi
+A. Đây: https://raw.githubusercontent.com/Nguyenhuyhoan/Config/main/Revoke.mobileconfig
