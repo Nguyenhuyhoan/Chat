@@ -314,3 +314,4 @@ A. Khi bạn ký một tập tin .mobileconfig, bạn đang tạo ra một chữ
 	3.	Ngăn chặn Chỉnh sửa Trái phép: Khi bạn ký tập tin, bạn ngăn chặn những người dùng không có quyền thay đổi nội dung của tập tin. Điều này đảm bảo rằng các cấu hình quan trọng không bị thay đổi một cách trái phép, đảm bảo tính nhất quán và an toàn.
 
 Vì vậy, nếu bạn chỉ sử dụng cấu hình cho mục đích cá nhân, bạn có thể không cần ký. Nhưng nếu bạn phân phối cấu hình cho nhiều người dùng, việc ký là rất quan trọng để đảm bảo tính toàn vẹn và bảo mật của cấu hình.
+Cấu hình mình cho nhiều người dùng cũng phải ký thôi https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1750944076354-IMG_1892.jpeg
