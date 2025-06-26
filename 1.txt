@@ -307,3 +307,10 @@ A. Web mình chỉ hổ trợ làm trên iphone ipad thôi bạn, còn máy tín
 có ai không 😂😂
 
 cái mobileconfig đó ký làm gì nhỉ, ch rõ công dụng lắm :v
+A. Khi bạn ký một tập tin .mobileconfig, bạn đang tạo ra một chữ ký số để bảo đảm rằng nội dung của tập tin không bị thay đổi sau khi được ký. Điều này rất quan trọng vì:
+
+	1.	Bảo mật và Tin cậy: Khi một tập tin .mobileconfig được ký, người nhận có thể tin tưởng rằng nội dung chưa bị chỉnh sửa bởi bất kỳ ai sau khi nó được ký. Nếu ai đó cố gắng thay đổi nội dung của tập tin, chữ ký số sẽ không còn hợp lệ, và thiết bị sẽ từ chối cài đặt tập tin đó.
+	2.	Xác thực Nguồn gốc: Chữ ký số cũng giúp xác thực rằng tập tin cấu hình thực sự đến từ nguồn mà người dùng tin cậy. Điều này đặc biệt quan trọng khi bạn phân phối cấu hình cho nhiều người dùng.
+	3.	Ngăn chặn Chỉnh sửa Trái phép: Khi bạn ký tập tin, bạn ngăn chặn những người dùng không có quyền thay đổi nội dung của tập tin. Điều này đảm bảo rằng các cấu hình quan trọng không bị thay đổi một cách trái phép, đảm bảo tính nhất quán và an toàn.
+
+Vì vậy, nếu bạn chỉ sử dụng cấu hình cho mục đích cá nhân, bạn có thể không cần ký. Nhưng nếu bạn phân phối cấu hình cho nhiều người dùng, việc ký là rất quan trọng để đảm bảo tính toàn vẹn và bảo mật của cấu hình.
