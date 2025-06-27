@@ -318,3 +318,4 @@ A. Cấu hình mình cho nhiều người dùng cũng phải ký thôi https://r
 có dns chống thu hồi kh ad oi
 A. Đây: https://scripti.netlify.app/revoke.mobileconfig
 Hi
+Phần dịch ngôn ngữ String đâu rồi Ad ơi 🙁
