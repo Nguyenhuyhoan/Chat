@@ -319,3 +319,4 @@ có dns chống thu hồi kh ad oi
 A. Đây: https://scripti.netlify.app/revoke.mobileconfig
 Hi
 Phần dịch ngôn ngữ String đâu rồi Ad ơi 🙁
+A. Cái đó sai rất nhiều, bác dùng AI phần Pro như GPT-4o và yêu cầu nó :Dịch tất cả văn bản trong cặp <string> ra tiếng việt, giữ nguyên cấu trúc gốc và viết lại toàn bộ mã” là ổn nhất
