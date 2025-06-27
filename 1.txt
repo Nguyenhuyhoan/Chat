@@ -317,3 +317,4 @@ A. Vì vậy, nếu bạn chỉ sử dụng cấu hình cho mục đích cá nh�
 A. Cấu hình mình cho nhiều người dùng cũng phải ký thôi https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1750944076354-IMG_1892.jpeg
 có dns chống thu hồi kh ad oi
 A. Đây: https://scripti.netlify.app/revoke.mobileconfig
+Hi
