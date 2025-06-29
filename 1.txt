@@ -320,11 +320,11 @@ A. Đây: https://scripti.netlify.app/revoke.mobileconfig
 Hi
 Phần dịch ngôn ngữ String đâu rồi Ad ơi 🙁
 A. Cái đó sai rất nhiều, bác dùng AI phần Pro như GPT-4o và yêu cầu nó :Dịch tất cả văn bản trong cặp <string> ra tiếng việt, giữ nguyên cấu trúc gốc và viết lại toàn bộ mã” là ổn nhất
-A. IPA  Ai Text Crack Việt Hoá hổ trợ rất nhiều ký tự nè bác, thoải mái dịch string và hiếm khi lỗi:
+A. IPA Ai Text Crack Việt Hoá hổ trợ rất nhiều ký tự nè bác, thoải mái dịch string và hiếm khi lỗi:
 A. https://drive.google.com/file/d/1sjiR3bXLeNBD582ZqMXcXq5O3PIXGE9D/view?usp=drivesdk
 Troll
 A. Store
 Cảm ơn Ad
 A. 👍
-A. Mình đã bổ sung chức năng tự động lưu cấu hình vào thư mục Tải Về để bạn dễ dàng quản lý. Cả hai phiên bản — cài trực tuyến và tải về — đều đã được ký đầy đủ.
+A. Mình đã bổ sung chức năng lưu cấu hình của Tự Tạo Cấu Hình Chặn Thư Hồi vào thư mục Tải Về để bạn dễ dàng quản lý. Cả hai phiên bản — cài trực tuyến và tải về — đều đã được ký đầy đủ.
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1751194578402-IMG_1953.png
