@@ -328,3 +328,4 @@ Cảm ơn Ad
 A. 👍
 A. Mình đã bổ sung chức năng lưu cấu hình của Tự Tạo Cấu Hình Chặn Thư Hồi vào thư mục Tải Về để bạn dễ dàng quản lý. Cả hai phiên bản — cài trực tuyến và tải về — đều đã được ký đầy đủ.
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1751194578402-IMG_1953.png
+
