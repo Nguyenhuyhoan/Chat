@@ -454,3 +454,4 @@ Bây giờ mọi thứ đã sẵn sàng, bạn chỉ cần ra lệnh cho GitHub 
        5*. Web chưa sập thì chạy thêm vài Run workflow nữa, làm từ 1* đến 4* là dc.
 
 Ngay lập tức, quy trình tấn công sẽ được khởi động. Bạn có thể nhấn vào tiến trình đang chạy để xem nhật ký (log) chi tiết và theo dõi cuộc tấn công trong thời gian thực.
+huongs dẫn trên bị lỗi văn bản không để dạng cha con nên khi làm sẽ bị lỗi, tải hướng dẫn này về làm sẽ không bij lỗi nè https://upfile.live/vi/files/f2a44778
