@@ -371,3 +371,4 @@ A. Chổ bước 3 đó bác
 Admin có kênh nào để tiện theo dõi nếu web sập k ạ
 A. Không có bác, trừ khi mình tự xoá 🤣, Netlify mạnh ổn định ko sao đâu. Xtgem (..wap.sh) là thời cổ nên rất yếu, vẫn là http chứ ko phải https, cho vài chục ngàn người ảo tới là ao à.
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1753348906175-IMG_2304.png
+Tks ad tạo ra web mà k lấy ae 1 đồng nào
