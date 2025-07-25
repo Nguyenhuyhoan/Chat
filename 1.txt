@@ -380,7 +380,7 @@ A. Chia sẽ các bác mã web khá tiện dụng để làm việc với các f
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1753475206112-IMG_2320.png
 A. Trong mã web nhớ thay 💹TOKENGITHUB💹 bằng token github dạng ghp_…. vào. (Bạn phải có tài khoản github, link để tạo token: https://github.com/settings/tokens, hoặc tìm trên youtube cách tạo token github)
 
-A. Trong mã web, nhớ thay 💹USER💹 bằng tên bạn trên github vào. Ví dụ: https://github.com/Nguyencongdanh/Testing/Akoaka.ipa thì tên bạn sẽ là Nguyencongdanh.
+A. Trong mã web, nhớ thay 💹USER💹 bằng tên bạn trên github vào. Ví dụ: github.com/Nguyencongdanh/Testing/Akoaka.ipa thì tên bạn sẽ là Nguyencongdanh.
 
 A. Quan Trọng: Khi úp lên web thì chỉ mình bạn biết link, nếu để người khác biết link đó thì khả năng cao Github của bạn sẽ tan hoang… và nhiều vấn đề khác có thể phức tạp hơn.
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1753475235188-IMG_2321.jpeg
