@@ -385,3 +385,4 @@ A. Trong mã web, nhớ thay 💹USER💹 bằng tên bạn trên github vào. V
 A. Quan Trọng: Khi úp lên web thì chỉ mình bạn biết link, nếu để người khác biết link đó thì khả năng cao Github của bạn sẽ tan hoang… và nhiều vấn đề khác có thể phức tạp hơn.
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1753475235188-IMG_2321.jpeg
 https://raw.githubusercontent.com/Nguyenhuyhoan/Chat/main/media/1753532154557-IMG_2344.png
+Các anh bot ảo lần này ồ ạt thiệt 🤪
