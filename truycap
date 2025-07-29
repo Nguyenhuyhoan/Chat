@@ -1,7 +1,7 @@
 {
-  "today": 99,
-  "total": 9074,
-  "last_visit_today": 1753808200981,
-  "last_visit_today_formatted": "23:56:40, 29/07/2025",
-  "last_reset_timestamp": 1753723386387
+  "today": 1,
+  "total": 9075,
+  "last_visit_today": 1753808466209,
+  "last_visit_today_formatted": "00:01:06 30/7/25",
+  "last_reset_timestamp": 1753808466209
 }
